@@ -10,12 +10,11 @@ Topic: Practice of implementing the Asset Administration Shell Universal Robot U
 
 Directory Structure:
 
-- The project is divined into report folder and implementation folder
-
+- This repository is divined into 2 folders, so called report folder and implementation folder.
 
 For Report folder: 
 
-- it consists of the report in form of PDF
+- it consists of the report in form of PDF.
 
 For Implementation folder:
 
