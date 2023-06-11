@@ -6,7 +6,7 @@ Matriculation No.: 7023541
 
 Subject: Digitalization of ICPS
 
-Topic: Practice of implementing Practice of implementing the Asset Administration Shell Universal Robot UR5e in Digital Factory
+Topic: Practice of implementing the Asset Administration Shell Universal Robot UR5e in Digital Factory
 
 Directory Structure:
 
